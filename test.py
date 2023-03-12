@@ -97,3 +97,4 @@ class docker_img_anayis(torch.utils.data.Dataset):
 
 # dataloader = torch.utils.DataLoader(dataset, batch_size=1, suffle=False)
 
+#ein beibility
